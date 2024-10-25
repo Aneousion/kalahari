@@ -178,6 +178,7 @@ export default function StorytellingComponent() {
                     )}
                 </DialogContent>
             </Dialog>
+            <h2 className="text-2xl font-bold mb-4 flex items-center justify-between col pb-6"><a href='https://microreact.org/project/cmsdJcD4SUfxFBVroMqpZJ-vivliplot1'>More plots...</a></h2>
         </div>
     )
 }
